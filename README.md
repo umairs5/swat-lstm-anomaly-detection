@@ -109,7 +109,7 @@ ATTACK_PATH  = '/path/to/swat-dataset/attack.csv'
 ```
 
 ### Run
-Open `anomaly_detection.ipynb` in Jupyter or Google Colab and run all cells sequentially. The notebook covers:
+Open `notebook.ipynb` in Jupyter or Google Colab and run all cells sequentially. The notebook covers:
 1. EDA and preprocessing
 2. Sliding window sequence creation
 3. LSTM-AE and TCN-AE training
